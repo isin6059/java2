@@ -4,10 +4,9 @@
  * 프로그램은 무한 반복되다가 exit라는 문자열이 입력되면 종료 됩니다.
  */
 
-import java.util.Scanner;// (문제1) 다음 코드를 실행하기 위한 Scanner cl
+
 
 import java.util.Scanner;
-
 
 
 public class Midterm {
